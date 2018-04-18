@@ -1,0 +1,13 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-emitter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "3.3.0",
+    "sinon": "4.5.0"
+  }
+}
